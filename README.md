@@ -10,9 +10,10 @@ Escolhi a programação por entender que a tecnologia é a ferramenta do século
 
 
  <div>
-   <a href="https://github.com/EdilanoFco">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdilanoFco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdilanoFco&layout=compact&langs_count=6&theme=tokyonight"/>
+<a href="https://github.com/EdilanoFco">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=EdilanoFco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdilanoFco&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas" />
+</a>
 
 </div>
 ### 🤖 Linguagens e Técnologia <br> <br>
