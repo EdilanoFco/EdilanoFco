@@ -2,11 +2,11 @@
 
 **`Desenvolvedor Web`**
 
-<h2>Me chamo Fco. Edilano Gonzaga de Melo, tenho 36 anos e sou de Fortaleza-CE. Tenho o ensino médio completo, trabalho atualmente como motorista de aplicativo e estou estudando programação para desenvolvimento web.
+<h3 align="justify">Me chamo Fco. Edilano Gonzaga de Melo, tenho 36 anos e sou de Fortaleza-CE. Tenho o ensino médio completo, trabalho atualmente como motorista de aplicativo e estou estudando programação para desenvolvimento web.
 
 Tenho experiência como porteiro, encarregado de almoxarifado e encarregado de moldado. Apesar de ainda não possuir experiência comprovada na área de tecnologia, sempre tive facilidade em aprender programas de gestão de estoque, finanças e relatórios.
 
-Escolhi a programação por entender que a tecnologia é a ferramenta do século e uma aliada essencial. Além disso, gosto de resolver problemas e trazer soluções. Dizem que "programação é para todos, mas nem todos são para a programação", e nesta caminhada vi muitos desistirem, o que só reforça minha determinação em seguir em frente.</h2>
+Escolhi a programação por entender que a tecnologia é a ferramenta do século e uma aliada essencial. Além disso, gosto de resolver problemas e trazer soluções. Dizem que "programação é para todos, mas nem todos são para a programação", e nesta caminhada vi muitos desistirem, o que só reforça minha determinação em seguir em frente.</h3>
 
 
  <div>
@@ -15,10 +15,17 @@ Escolhi a programação por entender que a tecnologia é a ferramenta do século
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdilanoFco&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
+# 🤖 Linguagens e Técnologia
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ 
+
+          
+            
+
+ 
 </div>
  
  <br>
